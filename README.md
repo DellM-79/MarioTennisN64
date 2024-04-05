@@ -1,2 +1,2 @@
 # MarioTennisN64
-A decompilation of Mario Tennis for the Nintendo 64, released in 2000.
+A decompilation of _Mario Tennis_ for the Nintendo 64, released in 2000.
